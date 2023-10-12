@@ -40,7 +40,14 @@ video{
     padding-left: 150px;
     padding-top: 50px;
 }
+.landingbox1{
+    display: inline;
+}
 .landingbox2 h1{
-    border: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    border-right: 3px solid;
+    border-left: 3px solid;
     border-color: red;
+    display: inline;
 }
